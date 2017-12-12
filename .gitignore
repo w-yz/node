@@ -1,0 +1,7 @@
+/dist/*
+/output/*
+/www/**/*.map
+/.idea/*
+/node_modules/*
+/report/lint/*
+/upgrade/*
