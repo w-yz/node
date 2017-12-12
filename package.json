@@ -18,6 +18,7 @@
     "marked": "^0.3.7",
     "mock": "^0.1.1",
     "swiper": "^4.0.7",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "zepto": "^1.2.0"
   }
 }

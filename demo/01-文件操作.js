@@ -16,7 +16,7 @@ process.argv.forEach(function (t) {
 
 
 //创建目录  在当前文件夹下创建demo1文件夹
-fs.mkdir(path.join(__dirname,'demo1'),function (err) {
+fs.mkdir(path.join(__dirname,'demo'),function (err) {
       // console.log(err);
 });
 
